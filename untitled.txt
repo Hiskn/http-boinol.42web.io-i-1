@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Titmi - Your Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Welcome to Titmi</h1>
+            <p>Your personal website for all things awesome!</p>
+        </div>
+    </header>
+
+    <section class="main-content">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>This is a simple, stylish webpage for you to showcase your ideas. It's fast, simple, and customizable!</p>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <h2>Features</h2>
+            <ul>
+                <li>Fast and responsive design</li>
+                <li>Customizable layout</li>
+                <li>Easy to edit and maintain</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Titmi. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
